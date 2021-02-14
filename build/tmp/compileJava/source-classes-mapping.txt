@@ -1,12 +1,14 @@
+set/EstudoLinkedHashSet.java
+ set.EstudoLinkedHashSet
 list/EstudoList.java
  list.EstudoList
 list/DesafioFinalAulaList.java
  list.DesafioFinalAulaList
-queue/EstudoQueue.java
- queue.EstudoQueue
-set/EstudoLinkedHashSet.java
- set.EstudoLinkedHashSet
-set/EstudoHashSet.java
- set.EstudoHashSet
 set/EstudoTreeSet.java
  set.EstudoTreeSet
+queue/EstudoQueue.java
+ queue.EstudoQueue
+set/EstudoHashSet.java
+ set.EstudoHashSet
+set/ExercicioFixacaoSet.java
+ set.ExercicioFixacaoSet
